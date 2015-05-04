@@ -1,0 +1,11 @@
+body {
+	color: #0094ff; 
+	padding:5px
+           }
+header::first-letter {
+	font-family: Edwardian Script ITC; 
+	font-size:48px
+            }
+article {
+	font-family: Consolas
+            }
